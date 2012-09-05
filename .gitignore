@@ -10,3 +10,10 @@
 *.lai
 *.la
 *.a
+
+#editor temp files
+*~
+*.working
+*.vpp~*
+*.autosave
+
